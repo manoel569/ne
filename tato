@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_d2ba041d3b95ecdf1728cc9434025c473f981d27/playlist.m3u8
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b3e01269c90d670f3f70cd1ca41d5bea28075eae/playlist.m3u8
+#EXTINF:-1,HBO
+https://d3c6113l0xwmhx.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+#EXTINF:-1,HBO 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_7de774de03fca20c9f91d9514db9a8101875d61d/playlist.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_751d98c554be1da90e53317b5ceea5d62c109707/playlist.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_e85d9715417e47c6f6db3994a5fdfe03f179c716/playlist.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_e75204260d2ac4c6e854b431bcfcb7912af4dc79/playlist.m3u8
+#EXTINF:-1,TELECINE PIPOCA#EXTM3U
+#EXTINF:-1,COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_d2ba041d3b95ecdf1728cc9434025c473f981d27/playlist.m3u8
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b3e01269c90d670f3f70cd1ca41d5bea28075eae/playlist.m3u8
+#EXTINF:-1,HBO
+https://d3c6113l0xwmhx.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+#EXTINF:-1,HBO 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_7de774de03fca20c9f91d9514db9a8101875d61d/playlist.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_751d98c554be1da90e53317b5ceea5d62c109707/playlist.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_e85d9715417e47c6f6db3994a5fdfe03f179c716/playlist.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_e75204260d2ac4c6e854b431bcfcb7912af4dc79/playlist.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_e75204260d2ac4c6e854b431bcfcb7912af4dc79/playlist.m3u8
+#EXTINF:-1,VINGADORES ULTIMATO
+https://mys.myservdir.com/general/Banner/vacanceo.png
+#EXTINF:-1,VINGADORES ULTIMATO
+https://mc.yandex.ru/watch/49788082?wmode=7&page-ref=https%3A%2F%2Ffilmesonlinehd1.net%2Ffilme%2Fassistir-vingadores-ultimato-dublado-online-hd%2F&page-url=https%3A%2F%2Fvfilmesonline.net%2Fv%2Fwjdn1sn88zq332w%2F&charset=utf-8&site-info=%7B%22owner%22%3A%22234471%22%7D&browser-info=ti%3A10%3Ans%3A1576343061448%3As%3A1366x768x24%3Ask%3A1%3Aifr%3A1%3Asti%3A0%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A880x495%3Az%3A-180%3Ai%3A20191214140426%3Aet%3A1576343067%3Aen%3Autf-8%3Ac%3A1%3Ala%3Apt-br%3Antf%3A1%3Acpf%3A1%3Apv%3A1%3Als%3A1326673729212%3Arqn%3A1%3Arn%3A464969351%3Ahid%3A549112738%3Ads%3A206%2C326%2C162%2C158%2C8%2C0%2C0%2C1953%2C12%2C%2C%2C%2C2992%3Agdpr%3A14%3Av%3A1779%3Awv%3A2%3Arqnl%3A1%3Ast%3A1576343067%3Au%3A1576343067511997454%3At%3AVideo%20Vingadores%20Ultimato%202019%20HDRip%20LiNE%20720p%20DUB.ENC.mp4
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_e75204260d2ac4c6e854b431bcfcb7912af4dc79/playlist.m3u8
+#EXTINF:-1,VINGADORES ULTIMATO
+https://mys.myservdir.com/general/Banner/vacanceo.png
+#EXTINF:-1,VINGADORES ULTIMATO
+https://mc.yandex.ru/watch/49788082?wmode=7&page-ref=https%3A%2F%2Ffilmesonlinehd1.net%2Ffilme%2Fassistir-vingadores-ultimato-dublado-online-hd%2F&page-url=https%3A%2F%2Fvfilmesonline.net%2Fv%2Fwjdn1sn88zq332w%2F&charset=utf-8&site-info=%7B%22owner%22%3A%22234471%22%7D&browser-info=ti%3A10%3Ans%3A1576343061448%3As%3A1366x768x24%3Ask%3A1%3Aifr%3A1%3Asti%3A0%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A880x495%3Az%3A-180%3Ai%3A20191214140426%3Aet%3A1576343067%3Aen%3Autf-8%3Ac%3A1%3Ala%3Apt-br%3Antf%3A1%3Acpf%3A1%3Apv%3A1%3Als%3A1326673729212%3Arqn%3A1%3Arn%3A464969351%3Ahid%3A549112738%3Ads%3A206%2C326%2C162%2C158%2C8%2C0%2C0%2C1953%2C12%2C%2C%2C%2C2992%3Agdpr%3A14%3Av%3A1779%3Awv%3A2%3Arqnl%3A1%3Ast%3A1576343067%3Au%3A1576343067511997454%3At%3AVideo%20Vingadores%20Ultimato%202019%20HDRip%20LiNE%20720p%20DUB.ENC.mp4
